@@ -1,0 +1,16 @@
+
+GET http://localhost:3000/clients
+
+###
+
+POST http://localhost:3000/clients
+Content-Type: application/json
+ 
+{
+    "name": "james",
+    "status": "active"
+}
+
+###
+
+DELETE http://localhost:3000/clients/5ee86e6c335e9c3c0406be52
