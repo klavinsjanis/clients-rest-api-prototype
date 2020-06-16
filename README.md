@@ -11,4 +11,5 @@ How to run this project:
 6. You can send client requests - POST, GET, DELETE directly from the route.rest file using REST Client functionality
 
 Video presentation:
-[![IMAGE ALT TEXT HERE](https://youtu.be/P1nfdImGXls/0.jpg)](https://youtu.be/P1nfdImGXls)
+
+[![Video](https://img.youtube.com/vi/P1nfdImGXls/0.jpg)](https://youtu.be/P1nfdImGXls)
